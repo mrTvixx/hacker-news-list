@@ -1,0 +1,10 @@
+.stories {
+  max-width: 800px;
+  margin: 0 auto;
+  
+  &__fetch-msg {
+    padding: 15px;
+    text-align: center;
+    font-size: 28px;
+  }
+}
